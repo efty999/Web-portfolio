@@ -1,0 +1,19 @@
+h1{
+    font-size:60px;
+
+}
+body{font-family: 'Open Sans', sans-serif;background-image:url("image/top-banner.png");
+background-repeat: no-repeat;}
+
+.description{
+        width: 50%;text-align: justify;}
+    .num1{font-size:23px ;float: left;width:40%; margin: 3%;padding: 2%;}
+    .num1 img{ width: 100%;}
+    .link{
+        text-decoration: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        background-image: linear-gradient( lightsalmon,tomato);
+        font-weight: 700;
+    }
