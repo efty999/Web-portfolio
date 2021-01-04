@@ -1,24 +1,23 @@
-h1{
-    font-size:60px;
-
-}
-body{font-family: 'Open Sans', sans-serif;background-image:url("Image/top-banner.png");
-background-repeat: no-repeat;}
-
-.description{
-        width: 50%;text-align: justify;}
-    .num1{font-size:23px ;float: left;width:40%; margin: 3%;padding: 2%;padding-bottom: 150px;}
-    .num1 img{ width: 100%;}
-    .link{
-        text-decoration: none;
-        padding: 10px 20px;
-        border-radius: 5px;
-        color: white;
-        background-image: linear-gradient(45deg, lightsalmon,tomato);
-        font-weight: 700;
-        text-align:left;
+    h1{
+        font-size:30px;
     }
-    .num2{
-        width: 40%; margin:3%;padding:2%; 
-    }
-    .num2 img{width: 100%;}
+    body{font-family: 'Open Sans', sans-serif;background-image:url("Image/top-banner.png");
+    background-repeat: no-repeat;}
+
+
+    .description{
+            width: 50%;text-align: justify;}
+        .num1{font-size:23px ;float: left;width:40%; margin: 3%;padding: 2%;padding-bottom: 200px;}
+        .num1 img{ width: 100%;}
+        .link{
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            color: white;
+            background-image: linear-gradient(45deg, lightsalmon,tomato);
+            font-weight: 700;
+        }
+        .num2{
+            width: 40%; margin:3%;padding:2%; 
+        }
+        .num2 img{width: 100%;}
