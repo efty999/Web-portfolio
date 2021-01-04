@@ -16,4 +16,11 @@ background-repeat: no-repeat;}
         color: white;
         background-image: linear-gradient( lightsalmon,tomato);
         font-weight: 700;
+        text-align:left;
+    }
+    .num2{
+        width: 40%;margin: 3%;padding: 2%;display: block-inline;;
+    }
+    .num2 img{width: 100%;
+
     }
