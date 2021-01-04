@@ -5,8 +5,8 @@
     background-repeat: no-repeat;}
 
 
-    .description{
-            width: 50%;text-align: justify;}
+    .about-me{
+            width: 100%;text-align: justify;}
         .num1{font-size:23px ;float: left;width:40%; margin: 3%;padding: 2%;padding-bottom: 200px;}
         .num1 img{ width: 100%;}
         .link{
@@ -15,9 +15,6 @@
             border-radius: 5px;
             color: white;
             background-image: linear-gradient(45deg, lightsalmon,tomato);
-            font-weight: 700;
-        }
-        .num2{
-            width: 40%; margin:3%;padding:2%; 
-        }
-        .num2 img{width: 100%;}
+            font-weight: 700;}
+            .num2{font-size:23px ;width:40%; margin: 3%;padding: 2%;padding-bottom:100px;}
+            .num2 img{ width: 100%;}
