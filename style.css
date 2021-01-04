@@ -14,13 +14,11 @@ background-repeat: no-repeat;}
         padding: 10px 20px;
         border-radius: 5px;
         color: white;
-        background-image: linear-gradient( lightsalmon,tomato);
+        background-image: linear-gradient(45deg, lightsalmon,tomato);
         font-weight: 700;
         text-align:left;
     }
     .num2{
-        width: 40%;margin: 3%;padding: 2%;display: block-inline;;
+        width: 40%; margin:3%;padding:2%;display: inline-block; 
     }
-    .num2 img{width: 100%;
-
-    }
+    .num2 img{width: 100%;}
