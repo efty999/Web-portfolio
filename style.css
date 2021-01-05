@@ -1,19 +1,21 @@
         h1{ font-size:50px;}
-        h2{font-size: 40px;font-weight: 600;color:orange;}
-        h3{color: antiquewhite;}
+        h2{font-size: 40px;font-weight: 700;}
+        h3{color:orange ;}
+        h4{color: darkgoldenrod;}
         p{color: dimgrey;}
     body{font-family: 'Open Sans', sans-serif;}
     section{overflow: hidden;}
     body{margin: 0px;}
-
+    .second-header{font-size: 25px;}
+    .header-highlight{color:orange}
 
     .banner{background-image:url("Image/top-banner.png");
         background-repeat: no-repeat;}
         
 
-    .about-me{
-            width: 100%;text-align: justify;}
-        .half{font-size:23px ;float: left;width:40%; margin: 3%;padding: 2%;padding-bottom: 50px;}
+    .about-me{font-size: 20px;    
+        width: 100%;text-align: justify;}
+        .half{float: left;width:40%;margin:3% ; padding:2% px;padding-bottom: 50px;}
         .half img{ width: 100%;}
         .link{
             text-decoration: none;
@@ -23,5 +25,19 @@
             background-image: linear-gradient(45deg, lightsalmon,tomato);
             font-weight: 700;}
 
-            .dream{background-image:url("Image/dream-bg.png");background-repeat: no-repeat;background-position:right bottom;}
-            .dream{height: 700px;}
+            .dream{background-image:url("Image/dream-bg.png");background-repeat: no-repeat;background-position:right center;}
+            .exprience{background-image: url(Image/exp-bg.png);background-repeat: no-repeat;background-position:left bottom ;}
+            .box-shadow{box-shadow: 10px 10px 40px gray;
+            border-radius: 5px;height: 250px;background-color: honeydew;}
+            #pro-web{border-left:7px solid ;
+            border-image:linear-gradient(180deg,lightsalmon,tomato);
+            border-image-slice: 1;
+            }
+            #baby-web{
+                border-left:7px solid ;
+            border-image:linear-gradient(180deg,blue,cyan);
+            border-image-slice: 1;
+            }
+            footer p{text-align: center;
+            font-size: 12px;
+            }
